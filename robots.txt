@@ -1,1 +1,1 @@
-Sitemap: https://integrativemicrobiomesciences-lab.github.io/home/sitemap.xml
+Sitemap: https://integrativemicrobiomesciences-lab.github.io/sitemap.xml
