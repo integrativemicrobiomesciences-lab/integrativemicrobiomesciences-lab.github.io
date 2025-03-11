@@ -9,6 +9,9 @@ nav:
 
 We’re building and training a team of interdisciplinary scientists, including, for example, microbiologists, bioinformaticians, ecologists, and clinicians who are interested in tackling global problems at the interface of infectious diseases, antibiotic resistance, and phage biology, from the vantage point of integrative microbiome sciences.
 
+
+If you are interested in joining our team, please get in touch with a CV and cover letter explaining your interest in our research, so as to initiate a conversation regarding potential opportunities. 
+
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
