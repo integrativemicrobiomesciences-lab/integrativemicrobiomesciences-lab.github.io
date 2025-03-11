@@ -1,9 +1,11 @@
 ---
 ---
 
-# integrativemicrobiomesciences-lab's Website
+# Integrative Microbiome Sciences Laboratory 
 
-An engaging 1-3 sentence description of your lab.
+We combine the disciplines of microbiome sciences, bioinformatics, and multi-omics (including metaproteomics) in an effort to inform molecular approaches to modulate the functions of the microbiome for desired host health phenotypes. We have particular interests in infectious diseases, and antimicrobial resistance. 
+
+
 
 {% include section.html %}
 
@@ -11,7 +13,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+To read more about the research focus of our lab, please see our publications. 
 
 {%
   include button.html
@@ -34,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Current projects in the lab 
 
 {%
   include button.html
@@ -59,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We’re building and training a team of interdisciplinary scientists, including, for example, microbiologists, bioinformaticians, ecologists, and clinicians who are interested in tackling global problems at the interface of infectious diseases, antibiotic resistance, and phage biology, from the vantage point of integrative microbiome sciences. 
 
 {%
   include button.html
