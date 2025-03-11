@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our laboratory is based in the [Department of Biochemistry and Molecular Biology](https://www.monash.edu/discovery-institute/departments/biochemistry-and-molecular-biology) at the\ 
+Our laboratory is based in the [Department of Biochemistry and Molecular Biology](https://www.monash.edu/discovery-institute/departments/biochemistry-and-molecular-biology) at the\
 [Biomedicine Discovery Institute](https://www.monash.edu/discovery-institute), [Monash University](https://www.monash.edu). 
 
 {%
@@ -50,8 +50,8 @@ Our laboratory is based in the [Department of Biochemistry and Molecular Biology
 
 {% capture col1 %}
 ### Mailing address 
-15 Innovation Walk\ 
-Clayton, VIC 3168\ 
+15 Innovation Walk\
+Clayton, VIC 3168\
 Australia
 {% endcapture %}
 
