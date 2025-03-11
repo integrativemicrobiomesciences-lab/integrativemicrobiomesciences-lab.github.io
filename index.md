@@ -13,7 +13,7 @@ We combine the disciplines of microbiome sciences, bioinformatics, and multi-omi
 
 {% capture text %}
 
-To read more about the research focus of our lab, please see our publications. 
+Our research focus informs gut microbiome engineering strategies towards translating observations from the bench to human-relevant therapeutic applications using integrative microbiome sciences. 
 
 {%
   include button.html
@@ -36,7 +36,7 @@ To read more about the research focus of our lab, please see our publications.
 
 {% capture text %}
 
-Current projects in the lab 
+Our research projects span multiple ecosystems and model organisms all with the common themes of microbiome sciences at the leading-edge of integrating techniques from different disciplines and omic platforms, defining future directions of research. 
 
 {%
   include button.html
