@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We’re building and training a team of interdisciplinary scientists, including, for example, microbiologists, bioinformaticians, ecologists, and clinicians who are interested in tackling global problems at the interface of infectious diseases, antibiotic resistance, and phage biology, from the vantage point of integrative microbiome sciences.
 
 {% include section.html %}
 
@@ -18,17 +16,18 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# Collaborators
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo_JAyres.jpg" %}
+{% include figure.html image="images/photo_RKnight.jpg" %}
+{% include figure.html image="images/photo_TWong.jpg" %}
+{% include figure.html image="images/photo_TLawley.jpg" %}
+{% include figure.html image="images/photo_TStinear.jpg" %}
+{% include figure.html image="images/photo_RSchittenhelm.jpg" %}
 
 {% endcapture %}
 
