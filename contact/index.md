@@ -27,7 +27,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://www.google.com/maps/place/Monash+Biomedicine+Discovery+Institute/@-37.9113556,145.1296404,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad66aced919d79f:0xd9d43ae44c25ae6c!8m2!3d-37.9113556!4d145.1296404!16s%2Fg%2F11dxq_3kq7?authuser=1&entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D)"
+  link="https://maps.app.goo.gl/Y3pJg3b4nnuQB4wGA"
 %}
 
 {% include section.html %}
