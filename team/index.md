@@ -22,12 +22,12 @@ We’re building and training a team of interdisciplinary scientists, including,
 
 {% capture content %}
 
-{% include figure.html image="images/photo_JAyres.jpg" %}
-{% include figure.html image="images/photo_RKnight.jpg" %}
-{% include figure.html image="images/photo_TWong.jpg" %}
-{% include figure.html image="images/photo_TLawley.jpg" %}
-{% include figure.html image="images/photo_TStinear.jpg" %}
-{% include figure.html image="images/photo_RSchittenhelm.jpg" %}
+{% include figure.html image="images/photo_JAyres.jpg" caption="Prof. Janelle S. Ayres<br/>Salk Institute for Biological Studies, USA" %}
+{% include figure.html image="images/photo_RKnight.jpg" caption="Prof. Rob Knight<br/>University of California San Diego, USA" %}
+{% include figure.html image="images/photo_TWong.jpg" caption="Assist. Prof. Tania Wong<br/>Rutgers Institute for Infectious & Inflammatory Diseases, USA" %}
+{% include figure.html image="images/photo_TLawley.jpg" caption="Dr. Trevor Lawley<br/>Wellcome Sanger Institute, UK" %}
+{% include figure.html image="images/photo_TStinear.jpg" caption="Prof. Timothy P. Stinear<br/>University of Melbourne,AUS" %}
+{% include figure.html image="images/photo_RSchittenhelm.jpg" caption="Prof. Ralf Schittenhelm<br/>Monash University, AUS" %}
 
 {% endcapture %}
 
