@@ -34,30 +34,7 @@ Our research focus informs gut microbiome engineering strategies towards transla
   text=text
 %}
 
-{% capture text %}
 
-Our research projects span multiple ecosystems and model organisms all with the common themes of microbiome sciences at the leading-edge of integrating techniques from different disciplines and omic platforms, defining future directions of research. 
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
