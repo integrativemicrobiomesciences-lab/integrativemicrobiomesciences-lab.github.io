@@ -20,7 +20,7 @@ Andre has over 14 years of training across four world-leading institutions spann
 [*Salk Institute for Biological Studies*](https://www.salk.edu) (USA), and the<br/>
 [*Doherty Institute*](https://www.doherty.edu.au) (Australia)
 
-Andre has trained with world-leaders in microbiology and microbiome sciences, including<br/>
+Andre has trained with world-leaders in microbiology, microbiome sciences, and host-pathogen interactions, including<br/>
 [Prof. Janelle S. Ayres](https://www.salk.edu/scientist/janelle-ayres/) (Salk),<br/>
 [Prof. Rob Knight](https://knightlab.ucsd.edu/wordpress/?page_id=47) (UCSD),<br/>
 [Dr. Trevor D. Lawley](https://www.sanger.ac.uk/person/lawley-trevor/) (Sanger),<br/>
