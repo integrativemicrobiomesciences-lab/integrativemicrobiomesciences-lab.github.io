@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Stay tuned for future news from our lab
+Stay tuned for future news and updates from our lab
 
 {% include section.html %}
 
