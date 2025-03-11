@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our laboratory is based in the [Department of Biochemistry and Molecular Biology](https://www.monash.edu/discovery-institute/departments/biochemistry-and-molecular-biology) at the<br/>
-[Biomedicine Discovery Institute](https://www.monash.edu/discovery-institute), [Monash University](https://www.monash.edu). 
+Our laboratory is based in the [Department of Biochemistry and Molecular Biology](https://www.monash.edu/discovery-institute/departments/biochemistry-and-molecular-biology) at the [Biomedicine Discovery Institute](https://www.monash.edu/discovery-institute), [Monash University](https://www.monash.edu). 
 
 {%
   include button.html
