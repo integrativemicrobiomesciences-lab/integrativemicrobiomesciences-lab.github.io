@@ -27,8 +27,8 @@ If you are interested in joining our team, please get in touch with a CV and cov
 
 {% include figure.html image="images/photo_JAyres.jpg" caption="Prof. Janelle S. Ayres<br/>Salk Institute for Biological Studies, USA" %}
 {% include figure.html image="images/photo_RKnight.jpg" caption="Prof. Rob Knight<br/>University of California San Diego, USA" %}
-{% include figure.html image="images/photo_TLawley.jpg" caption="Dr. Trevor Lawley<br/>Wellcome Sanger Institute, UK" %}
-{% include figure.html image="images/photo_RSchittenhelm.jpg" caption="Prof. Ralf Schittenhelm<br/>Monash University, AUS" %}
+{% include figure.html image="images/photo_TLawley.jpg" caption="Dr. Trevor D. Lawley<br/>Wellcome Sanger Institute, UK" %}
+{% include figure.html image="images/photo_RSchittenhelm.jpg" caption="Prof. Ralf B. Schittenhelm<br/>Monash University, AUS" %}
 {% include figure.html image="images/photo_TStinear.jpg" caption="Prof. Timothy P. Stinear<br/>University of Melbourne, AUS" %}
 {% include figure.html image="images/photo_TWong.jpg" caption="Assist. Prof. Tania Wong<br/>Rutgers Institute for Infectious & Inflammatory Diseases, USA" %}
 
