@@ -48,7 +48,9 @@ Our laboratory is based in the [Department of Biochemistry and Molecular Biology
 
 {% capture col1 %}
 ### Mailing address 
-15 Innovation Walk, Clayton, VIC 3168, Australia
+15 Innovation Walk 
+Clayton, VIC 3168 
+Australia
 {% endcapture %}
 
 
