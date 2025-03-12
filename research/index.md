@@ -18,16 +18,16 @@ Below are some highlights of current research projects.<br/>
 **We would love to hear from prospective graduate students, postdoctoral scholars, and collaborators interested in related areas to identify .**  
 
 
-### Microbial ecology of infectious diseases<br/>
+### Microbial ecology of infectious diseases
 Metabolic hand-off processes,<br/> 
 Integrative microbiome sciences<br/>
 Leader, [Centre to Impact AMR](https://www.monash.edu/impact-amr) 
 
-### Host microbiome responses to phage therapy<br/>
+### Host microbiome responses to phage therapy
 Metagenomics and metabolomics<br/>
 [Phage Australia](https://www.phageaustralia.org)<br/>
 
-### Discovery of novel phage functions<br/>
+### Discovery of novel phage functions
 *In silico* structural predictions<br/>
 Integrative omics
 
