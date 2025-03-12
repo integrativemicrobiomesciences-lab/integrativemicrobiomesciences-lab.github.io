@@ -41,6 +41,10 @@ Integrative omics
 
 {% include citation.html lookup="Microbe-Metabolite Associations Linked to the Rebounding Murine Gut Microbiome Postcolonization with Vancomycin-Resistant Enterococcus faecium" style="rich" %}
 
+{% include citation.html lookup="Assessment of the microbiome during bacteriophage therapy in combination with systemic antibiotics to treat a case of staphylococcal device infection" style="rich" %}
+
+{% include citation.html lookup="Integrative omics identifies conserved and pathogen-specific responses of sepsis-causing bacteria" style="rich" %}
+
 {% include section.html %}
 
 ## All
