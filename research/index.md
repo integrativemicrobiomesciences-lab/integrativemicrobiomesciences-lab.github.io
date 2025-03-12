@@ -8,15 +8,15 @@ nav:
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 ## What we do
-We employ both wet lab and dry lab approaches to answer research questions. We analyse large omic datasets to generate novel targeted hypotheses (discovery science) to test in the lab, and translate towards advancements in biotherapeutic and biotechnological applications. 
+We employ both wet lab and dry lab approaches to answer research questions. We analyse large omic datasets to generate novel targeted hypotheses (discovery science) to validate in the lab, and translate towards advancements in biotherapeutic and biotechnological applications. 
 
 ## How we do it
-A key component of our lab's success is through open and collaborative science. We work closely with world-leading researchers from Monash University, and with colleagues at the University of California San Diego, Salk Institute for Biological Studies, Wellcome Sanger Institute, and Rutgers Health New Jersey Medical School. 
+Our lab has expertise in microbial genomics (isolates and microbiomes), integrative multi-omics, and *in vitro* molecular microbiology techniques.<br/> 
+A key component of our lab's success is through open and collaborative science. We therefore work closely with world-leading researchers from Monash University, and with colleagues at the Salk Institute for Biological Studies, University of California San Diego, Wellcome Sanger Institute, and Rutgers Health New Jersey Medical School, to address global research challenges of mitigating infectious diseases, antimicrobial resistance, and understanding the links across microbiomes and human health. 
 
 ## What are we working on
-Below are some highlights of current research projects.<br/>
-**We would love to hear from prospective graduate students, postdoctoral scholars, and collaborators interested in related areas to identify .**  
-
+Below are highlights of some current research projects in our lab.<br/><br/>
+**We would love to hear from highly-motivated prospective graduate students, and postdoctoral scholars interested in related areas to identify and develop key questions to persue in their research.** Applicants must submit a concise research proposal (written 1 - 2 pages) that aligns with establshed topics to ensure appropriate support and mentoring can be provided. 
 
 ### Microbial ecology of infectious diseases
 Metabolic hand-off processes,<br/> 
