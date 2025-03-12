@@ -15,9 +15,9 @@ Andre Mu is a Senior Lecturer and Laboratory Head with the Department of Biochem
 Andre’s current research focus informs gut microbiome engineering strategies towards translating observations from the bench to human-relevant therapeutic applications using integrative microbiome sciences. 
 
 Andre has over 14 years of training across four world-leading institutions spanning three continents, each position supported by prestigious individual research fellowships, totalling >$411,000, including:<br/>
-- EMBL-EBI & Sanger Research Fellowship at the [*Wellcome Sanger Institute*](https://www.sanger.ac.uk) & [*EMBL-European Bioinformatics Institute*](https://www.ebi.ac.uk) (UK)<br/>
-- NOMIS Foundation Research Fellowship at the [*Salk Institute for Biological Studies*](https://www.salk.edu) (USA)<br/>
-- Endeavour Research Fellowship at the [*Doherty Institute*](https://www.doherty.edu.au) (Australia)
+- EMBL-EBI & Sanger Research Fellowship: [*Wellcome Sanger Institute*](https://www.sanger.ac.uk) & [*EMBL-European Bioinformatics Institute*](https://www.ebi.ac.uk) (UK)<br/>
+- NOMIS Foundation Research Fellowship: [*Salk Institute for Biological Studies*](https://www.salk.edu) (USA)<br/>
+- Endeavour Research Fellowship: [*Doherty Institute*](https://www.doherty.edu.au) (Australia)
 
 Andre has trained with world-leaders in microbiology, microbiome sciences, and host-pathogen interactions, including:<br/>
 - [Prof. Janelle S. Ayres](https://www.salk.edu/scientist/janelle-ayres/) (Host metabolism and pathogen interactions; Salk),<br/>
