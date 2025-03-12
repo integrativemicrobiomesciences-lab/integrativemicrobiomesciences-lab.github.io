@@ -15,19 +15,19 @@ Andre Mu is a Senior Lecturer and Laboratory Head with the Department of Biochem
 Andre’s current research focus informs gut microbiome engineering strategies towards translating observations from the bench to human-relevant therapeutic applications using integrative microbiome sciences. 
 
 Andre has over 14 years of training across four world-leading institutions spanning three continents, each position supported by prestigious individual research fellowships, totalling >$411,000, including:<br/>
-[*Wellcome Sanger Institute*](https://www.sanger.ac.uk) (UK),<br/>
-[*EMBL-European Bioinformatics Institute*](https://www.ebi.ac.uk) (UK),<br/>
-[*Salk Institute for Biological Studies*](https://www.salk.edu) (USA), and the<br/>
-[*Doherty Institute*](https://www.doherty.edu.au) (Australia)
+[*Wellcome Sanger Institute*](https://www.sanger.ac.uk) (UK - EBI & Sanger Research Fellowship),<br/>
+[*EMBL-European Bioinformatics Institute*](https://www.ebi.ac.uk) (UK- EBI & Sanger Research Fellowship),<br/>
+[*Salk Institute for Biological Studies*](https://www.salk.edu) (USA - NOMIS Foundation Research Fellowship), and the<br/>
+[*Doherty Institute*](https://www.doherty.edu.au) (Australia - Endeavour Research Fellowship)
 
 Andre has trained with world-leaders in microbiology, microbiome sciences, and host-pathogen interactions, including:<br/>
-[Prof. Janelle S. Ayres](https://www.salk.edu/scientist/janelle-ayres/) (Salk),<br/>
-[Prof. Rob Knight](https://knightlab.ucsd.edu/wordpress/?page_id=47) (UCSD),<br/>
-[Dr. Trevor D. Lawley](https://www.sanger.ac.uk/person/lawley-trevor/) (Sanger),<br/>
-[Prof. Timothy P. Stinear](https://www.doherty.edu.au/people/tim-stinear) (UniMelb), and<br/>
-[Prof. Richard A. Strugnell](https://www.doherty.edu.au/people/professor-richard-dick-strugnell) (UniMelb).<br/>
+[Prof. Janelle S. Ayres](https://www.salk.edu/scientist/janelle-ayres/) (Salk - Host metabolism and pathogen interactions),<br/>
+[Prof. Rob Knight](https://knightlab.ucsd.edu/wordpress/?page_id=47) (UCSD - Integrative microbiome sciences),<br/>
+[Dr. Trevor D. Lawley](https://www.sanger.ac.uk/person/lawley-trevor/) (Sanger - Bacteriophage genomics in early life microbiome sciences),<br/>
+[Prof. Timothy P. Stinear](https://www.doherty.edu.au/people/tim-stinear) (UniMelb - Pathogen genomics), and<br/>
+[Prof. Richard A. Strugnell](https://www.doherty.edu.au/people/professor-richard-dick-strugnell) (UniMelb - Molecular microbiology).<br/>
 
-His graduate research at the University of Melbourne with [Assoc. Prof., John Moreau](https://www.gla.ac.uk/schools/ges/staff/johnmoreau/) (UGlasgow) was in environmental sciences elucidating the interactions of a 1.5-km deep subsurface microbial community using high-throughput sequencing technologies. During this time, Andre was awarded a competitive fellowship through the Natural Sciences and Engineering Research Council of Canada to train in anaerobic microbiology with [Prof., Gerrit Voourdouw](https://profiles.ucalgary.ca/gerrit-voordouw) at the University of Calgary. 
+His graduate research at the University of Melbourne with [Assoc. Prof., John Moreau](https://www.gla.ac.uk/schools/ges/staff/johnmoreau/) (UGlasgow) was in environmental sciences (microbial ecology and bioinformatics) elucidating the interactions of a 1.5-km deep subsurface microbial community using high-throughput sequencing technologies. During this time, Andre was awarded a competitive fellowship through the Natural Sciences and Engineering Research Council of Canada to train in anaerobic microbiology with [Prof., Gerrit Voourdouw](https://profiles.ucalgary.ca/gerrit-voordouw) at the University of Calgary. 
 
-Andre has authored 30 publications to date in journals such as Nature Communications, Nature Reviews Microbiology, and Microbiome – all with the common themes of microbiome sciences at the leading-edge of integrating techniques from different disciplines and omic platforms, defining future directions of research. 
+Andre has authored 30 publications to date in journals such as *Nature Communications*, *Nature Reviews Microbiology*, and *Microbiome* – all with the common themes of microbiome sciences at the leading-edge of integrating techniques from different disciplines and omic platforms, defining future directions of research. 
 
