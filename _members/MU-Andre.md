@@ -12,8 +12,6 @@ links:
 
 Andre Mu is a Senior Lecturer and Laboratory Head with the Department of Biochemistry and Molecular Biology at Monash University, and is affiliated with the Biomedicine Discovery Institute’s *Infection*, and *Metabolism, diabetes & obesity* Programs. 
 
-Andre’s current research focus informs gut microbiome engineering strategies towards translating observations from the bench to human-relevant therapeutic applications using integrative microbiome sciences. 
-
 Andre has over 14 years of training across four world-leading institutions spanning three continents, each position supported by prestigious individual research fellowships, totalling >$411,000, including:
 - EMBL-EBI & Sanger Research Fellowship: [*Wellcome Sanger Institute*](https://www.sanger.ac.uk) & [*EMBL-European Bioinformatics Institute*](https://www.ebi.ac.uk) (UK)<br/>
 - NOMIS Foundation Research Fellowship: [*Salk Institute for Biological Studies*](https://www.salk.edu) (USA)<br/>
