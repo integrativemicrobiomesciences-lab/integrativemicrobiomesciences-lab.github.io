@@ -15,17 +15,19 @@ Our lab has expertise in microbial genomics (isolates and microbiomes), integrat
 A key component of our lab's success is through open and collaborative science. We therefore work closely with world-leading researchers from Monash University, and with colleagues at the Salk Institute for Biological Studies, University of California San Diego, Wellcome Sanger Institute, and Rutgers Health New Jersey Medical School, to address global research challenges of mitigating infectious diseases, antimicrobial resistance, and understanding the links across microbiomes and human health. 
 
 ## What are we working on
-Below are highlights of some current research projects in our lab.<br/><br/>
-**We would love to hear from highly-motivated prospective graduate students, and postdoctoral scholars interested in related areas to identify and develop key questions to persue in their research.** Applicants must submit a concise research proposal (written 1 - 2 pages) that aligns with establshed topics to ensure appropriate support and mentoring can be provided. 
+Below are highlights of some current research topics in our lab.<br/>
+**We would love to hear from highly-motivated prospective graduate students, and postdoctoral scholars interested in related areas to identify and develop key questions to persue in their research.** Applicants must submit a concise research proposal (1 - 2 pages written) that aligns with the lab's establshed topics to ensure appropriate support and mentoring can be provided. 
 
 ### Microbial ecology of infectious diseases
 Metabolic hand-off processes,<br/> 
 Integrative microbiome sciences<br/>
-Leader, [Centre to Impact AMR](https://www.monash.edu/impact-amr) 
+Bacterial sepsis<br/>
+PI-Mu is a Leader at the [Centre to Impact AMR](https://www.monash.edu/impact-amr) 
 
 ### Host microbiome responses to phage therapy
 Metagenomics and metabolomics<br/>
-[Phage Australia](https://www.phageaustralia.org)<br/>
+Phage genomics<br/>
+Current work in collaboration with experts at [Phage Australia](https://www.phageaustralia.org)<br/>
 
 ### Discovery of novel phage functions
 *In silico* structural predictions<br/>
@@ -37,7 +39,7 @@ Integrative omics
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Microbe-Metabolite Associations Linked to the Rebounding Murine Gut Microbiome Postcolonization with Vancomycin-Resistant Enterococcus faecium" style="rich" %}
 
 {% include section.html %}
 
