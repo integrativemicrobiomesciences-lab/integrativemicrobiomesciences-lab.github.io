@@ -9,9 +9,17 @@ nav:
 
 Stay tuned for future news and updates from our lab
 
-**A collection of photos taken by lab members**
+### A collection of photos taken by lab members
+
+![photo_dolomites](images/photo_dolomites.jpg)
+Sony a7 iii; Italian Dolomites; A. Mu
 
 
+![photo_nettuno](images/photo_nettunobeach.jpg)
+Sony a7 iii; Nettuno beach; A. Mu
+
+![photo_santamonica](images/photo_santamonica.jpg)
+Sony a7 iii; Santa Barbara; A. Mu
 
 {% include section.html %}
 
