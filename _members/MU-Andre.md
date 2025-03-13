@@ -33,17 +33,17 @@ Andre has authored 30 publications to date in journals such as *Nature Communica
 
 ### Affiliations
 
-*Senior Lecturer & Laboratory Head*<br/>
+- *Senior Lecturer & Laboratory Head*<br/>
 **Monash University**<br/> 
 *Head, Integrative Microbiome Sciences Laboratory*<br/>
 Department of Biochemistry and Molecular Biology<br/>
 Biomedicine Discovery Institute<br/>
 Discovery Programs: *Infection*; and *Metabolism, diabetes, and obesity*
 
-*Leader*<br/>
+- *Leader*<br/>
 **Centre to Impact AMR**
 
-*Honorary Research Fellow*<br/>
+- *Honorary Research Fellow*<br/>
 **University of Melbourne**<br/>
 Department of Microbiology and Immunology,<br/>
 at The Peter Doherty Institute for Infection and Immunity
