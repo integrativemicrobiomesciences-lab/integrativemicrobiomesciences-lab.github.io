@@ -28,7 +28,7 @@ Our research focus informs gut microbiome engineering strategies towards transla
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research_frontpage.jpg"
   link="research"
   title="Our Research"
   text=text
