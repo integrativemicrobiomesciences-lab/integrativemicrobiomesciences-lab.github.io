@@ -7,9 +7,9 @@ We combine the disciplines of microbiome sciences, bioinformatics, and multi-omi
 
 
 
+
 {% include section.html %}
 
-## Highlights
 
 {% capture text %}
 
