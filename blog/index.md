@@ -9,6 +9,10 @@ nav:
 
 Stay tuned for future news and updates from our lab
 
+**A collection of photos taken by lab members**
+
+
+
 {% include section.html %}
 
 {% include search-box.html %}
