@@ -1,7 +1,6 @@
 # site properties and page defaults
 title: Integrative Microbiome Sciences
-subtitle: Webpage for the Mu Laboratory at Monash University<br/>
-led by [Andre Mu](https://integrativemicrobiomesciences-lab.github.io/members/MU-Andre.html)
+subtitle: Webpage for the Mu Laboratory at Monash University, led by Andre Mu
 description: We combine the disciplines of microbiome sciences, bioinformatics, and multi-omics (including metagenomics, transcriptomics, and metabolomics) in an effort to inform molecular approaches to modulate the functions of the microbiome for desired host health phenotypes. We have particular interests in infectious diseases, and antimicrobial resistance. 
 header: images/background.jpg
 footer: images/background.jpg
