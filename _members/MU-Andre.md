@@ -13,9 +13,10 @@ links:
 Andre Mu is a Senior Lecturer and Laboratory Head with the Department of Biochemistry and Molecular Biology at Monash University, and is affiliated with the Biomedicine Discovery Institute’s *Infection*, and *Metabolism, diabetes & obesity* Programs. 
 
 Andre has over 14 years of training across four world-leading institutions spanning three continents, each position supported by prestigious individual research fellowships, totalling >$411,000, including:
+- Endeavour Research Fellowship: [*Doherty Institute*](https://www.doherty.edu.au) & [UCSD](https://ucsd.edu) (Australia & USA)<br/><br/>
 - EMBL-EBI & Sanger Research Fellowship: [*Wellcome Sanger Institute*](https://www.sanger.ac.uk) & [*EMBL-EBI*](https://www.ebi.ac.uk) (UK)<br/>
 - NOMIS Foundation Research Fellowship: [*Salk Institute for Biological Studies*](https://www.salk.edu) (USA)<br/>
-- Endeavour Research Fellowship: [*Doherty Institute*](https://www.doherty.edu.au) (Australia)<br/><br/>
+
 
 Andre has trained with world-leaders in microbiology, microbiome sciences, and host-pathogen interactions, including:<br/>
 - [Prof. Janelle S. Ayres](https://www.salk.edu/scientist/janelle-ayres/) (Host metabolism and pathogen interactions; Salk),<br/>
