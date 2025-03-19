@@ -34,7 +34,7 @@ Our laboratory is based in the [Department of Biochemistry and Molecular Biology
 
 {%
   include figure.html
-  image="images/photo.jpg" width="200"
+  image="images/photo_monashBDI.jpg" width="200"
   caption="Biomedicine Discovery Institute<br/>
   Monash University"
 %}
