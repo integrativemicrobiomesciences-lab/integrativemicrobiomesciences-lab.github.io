@@ -50,12 +50,14 @@ at The Peter Doherty Institute for Infection and Immunity
 
 
 ### Teaching
-[BCH3990 - Action in biochemistry research project](https://handbook.monash.edu/2025/units/BCH3990?year=2025)<br/>
-*Unit Coordinator, Semester 2*<br/>
-
-Masters of Bioinformatics<br/>
-*in development* 
-
 Department of Biochemistry and Molecular Biology<br/>
 Biomedicine Discovery Institute<br/>
+
+
+**[BCH3990 - Action in biochemistry research project](https://handbook.monash.edu/2025/units/BCH3990?year=2025)**<br/>
+*Unit Coordinator, Semester 2*<br/>
+
+**Masters of Bioinformatics**<br/>
+*in development* 
+
 
