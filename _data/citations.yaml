@@ -227,25 +227,6 @@
   orcid: 0000-0002-0853-9743
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:35924898
-  title: Chronic Leptin Deficiency Improves Tolerance of Physiological Damage and
-    Host-Pathogen Cooperation during Yersinia pseudotuberculosis Infection.
-  authors:
-  - Karina K Sanchez
-  - Katia Troha
-  - Andre Mu
-  - Samuel E Redford
-  - Justin L McCarville
-  - Arianna Insenga
-  - Sarah Stengel
-  - Yujung Michelle Lee
-  - Janelle S Ayres
-  publisher: Infection and immunity
-  date: '2022-08-04'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35924898
-  orcid: 0000-0002-0853-9743
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.cmet.2022.03.009
   title: Klebsiella pneumoniae induces host metabolic stress that promotes tolerance
     to pulmonary infection
