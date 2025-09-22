@@ -25,7 +25,7 @@ If you are interested in joining our team, [please get in touch](https://integra
 
 {% capture content %}
 
-{% include figure.html image="images/photo_JAyres.jpg" caption="Prof. Janelle S. Ayres<br/>Salk Institute for Biological Studies, USA" %}
+{% include figure.html image="images/photo_JAyres.jpg" caption="Prof. Janelle S. Ayres<br/>Salk Institute for Biological Studies, and<br/>Howard Hughes Medical Institute Investigator, USA" %}
 <!--{% include figure.html image="images/photo_JIredell.jpg" caption="Prof. Jonathan R. Iredell <br/>Westmead Institute for Medical Research; University of Sydney, AUS" %}-->  
 {% include figure.html image="images/photo_RKnight.jpg" caption="Prof. Rob Knight<br/>University of California San Diego, USA" %}
 {% include figure.html image="images/photo_TLawley.jpg" caption="Dr. Trevor D. Lawley<br/>Wellcome Sanger Institute, UK" %}
