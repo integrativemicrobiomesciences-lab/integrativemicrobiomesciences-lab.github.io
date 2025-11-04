@@ -3,7 +3,10 @@
 
 # Integrative Microbiome Sciences Laboratory 
 
-We combine the disciplines of microbiome sciences, bioinformatics, and multi-omics (including metaproteomics) in an effort to inform molecular approaches to modulate the functions of the microbiome for desired host health phenotypes. We have particular interests in infectious diseases, and antimicrobial resistance. 
+Our lab engineers and modulates the microbiome to control host health outcomes. <br/>
+We develop molecular microbiology, bioinformatics, and multi-omic approaches to define causal mechanisms in microbial communities, and then to rationally reprogram those communities toward desired host health phenotypes. <br/>
+Our lab is particularly focused on infectious disease biology and antimicrobial resistance, where the ability to map, measure,and perturb microbial function in situ has immediate translational implications. 
+ 
 
 
 
