@@ -12,7 +12,7 @@ We focus on key biological questions centred around host-associated microbiomes<
 We employ both wet lab and dry lab approaches to answer research questions. We generate and analyse large omic datasets to formulate novel targeted hypotheses (discovery science) to validate in the lab, and translate towards advancements in biotherapeutic and biotechnological applications. 
 
 ## How we do it
-Our lab has expertise in microbial genomics (isolates and microbiomes), integrative multi-omics, and *in vitro* molecular microbiology techniques.<br/><br/>
+Our lab has expertise in microbial genomics (isolates and microbiomes), integrative multi-omics, and *in vitro* molecular microbiological techniques.<br/><br/>
 A key component of our lab's success is also through open and collaborative science. We therefore work closely with world-leading researchers from Monash University, and with colleagues at the Salk Institute for Biological Studies, Rutgers Health New Jersey Medical School, Wellcome Sanger Institute, and the University of Melbourne to address *global research challenges* of mitigating infectious diseases, antimicrobial resistance, and understanding the links across microbiomes and human health. 
 
 ## What are we working on
@@ -31,7 +31,7 @@ Mu et al., PMID: 36934086<br/>
 ### Host microbiome responses to phage therapy
 Metagenomics and metabolomics<br/>
 Phage genomics<br/>
-Mu et al., PMID: 33853672<br/>
+Mu et al., PMID: 33853672<br/><br/>
 
 
 We would love to hear from **highly-motivated** prospective graduate students, and postdoctoral scholars interested in related areas to identify and develop key questions to pursue in their research project. <br/> <br/> 
