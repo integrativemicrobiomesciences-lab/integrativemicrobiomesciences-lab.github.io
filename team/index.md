@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-If you are interested in joining our team, [please get in touch](https://integrativemicrobiomesciences-lab.github.io/contact/) with a CV and cover letter explaining your interests in our research so as to initiate a conversation regarding potential opportunities. Please also submit a concise research proposal for prospective PhD projects (1 - 2 pages written) that aligns with the lab’s establshed topics and expertise to ensure appropriate support and mentoring can be provided.<br/>
+If you are interested in joining our team, [please get in touch](https://integrativemicrobiomesciences-lab.github.io/contact/) with a CV, an up-to-date academic transcript (with at least two academic referees), and a cover letter explaining your interests in our research so as to initiate a conversation regarding potential opportunities. Please also submit a concise research proposal for prospective PhD and/or postdoctoral projects (1 - 2 pages written) that aligns with the lab’s establshed topics and expertise to ensure appropriate support and mentoring can be provided.<br/>
 
 
 {% include section.html %}
