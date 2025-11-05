@@ -16,7 +16,7 @@ A key component of our lab's success is through open and collaborative science. 
 
 ## What are we working on
 Below are highlights of some current research topics in our lab.<br/>
-**We would love to hear from highly-motivated prospective graduate students, and postdoctoral scholars interested in related areas to identify and develop key questions to pursue in their research project.** Applicants must submit a concise research proposal (1 - 2 pages written) that aligns with the lab's establshed topics to ensure appropriate support and mentoring can be provided. Please see research articles below. 
+**We would love to hear from highly-motivated prospective graduate students, and postdoctoral scholars interested in related areas to identify and develop key questions to pursue in their research project.** <br/> **Applicants must submit a concise research proposal (1 - 2 pages written) that aligns with the lab's establshed topics to ensure appropriate support and mentoring can be provided.** Please see research articles below. 
 
 ### Microbial ecology of infectious diseases
 Metabolic hand-off processes<br/> 
@@ -27,11 +27,10 @@ PI-Mu is a Leader at the [Centre to Impact AMR](https://www.monash.edu/impact-am
 ### Host microbiome responses to phage therapy
 Metagenomics and metabolomics<br/>
 Phage genomics<br/>
-Current work is in collaboration with experts at [Phage Australia](https://www.phageaustralia.org)<br/>
 
-### Discovery of novel phage functions
-*In silico* structural predictions<br/>
-Integrative omics
+### Microbiome signatures as predictors of host-health trajectories
+Charting the microbiome response during infection<br/>
+
 
 
 
