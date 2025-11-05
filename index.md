@@ -3,8 +3,8 @@
 
 # Integrative Microbiome Sciences Laboratory 
 
-Our lab engineers and modulates the microbiome to control host health outcomes. <br/>
-We develop molecular microbiology, bioinformatics, and multi-omic approaches to define causal mechanisms in microbial communities, and to then rationally reprogram those communities toward desired host health phenotypes. <br/>
+Our lab develops strategies to engineer and modulate the microbiome to control for host health outcomes. <br/>
+We combine molecular microbiology, microbiome sciences, bioinformatics, and multi-omic approaches to define causal mechanisms in microbial communities, and to then rationally reprogram those communities toward desired host health phenotypes. <br/>
 Our lab is particularly focused on infectious disease biology and antimicrobial resistance, where the ability to map, measure,and perturb microbial function in situ has immediate translational implications. 
  
 
