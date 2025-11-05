@@ -16,10 +16,7 @@ Our lab has expertise in microbial genomics (isolates and microbiomes), integrat
 A key component of our lab's success is also through open and collaborative science. We therefore work closely with world-leading researchers from Monash University, and with colleagues at the Salk Institute for Biological Studies, Rutgers Health New Jersey Medical School, Wellcome Sanger Institute, and the University of Melbourne to address *global research challenges* of mitigating infectious diseases, antimicrobial resistance, and understanding the links across microbiomes and human health. 
 
 ## What are we working on
-Below are highlights of some current research topics in our lab.<br/>
-We would love to hear from **highly-motivated** prospective graduate students, and postdoctoral scholars interested in related areas to identify and develop key questions to pursue in their research project. <br/> <br/> 
-**Applicants *must* submit a concise research proposal (1 - 2 pages written) that aligns with the lab's establshed topics and expertise to ensure appropriate support and mentoring can be provided.** Please also include an up-to-date academic transcript, and a CV with at least two academic referees.<br/> <br/>
-
+Below are highlights of some current research topics in our lab:<br/>
 ### Microbial ecology of infectious diseases
 Metabolic hand-off processes driving the rebounding microbiome post-perturbation<br/> 
 Integrative microbiome sciences (metagenomics and metabolomics)<br/>
@@ -36,6 +33,9 @@ Metagenomics and metabolomics<br/>
 Phage genomics<br/>
 Mu et al., PMID: 33853672<br/>
 
+
+We would love to hear from **highly-motivated** prospective graduate students, and postdoctoral scholars interested in related areas to identify and develop key questions to pursue in their research project. <br/> <br/> 
+**Applicants *must* submit a concise research proposal (1 - 2 pages written) that aligns with the lab's establshed topics and expertise to ensure appropriate support and mentoring can be provided.** Please send Andre an [email](https://integrativemicrobiomesciences-lab.github.io/contact/), and also include an up-to-date academic transcript, and a CV with at least two academic referees.<br/> <br/>
 
 {% include section.html %}
 
