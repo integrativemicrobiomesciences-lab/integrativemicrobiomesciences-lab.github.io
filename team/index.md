@@ -24,7 +24,7 @@ If you are interested in joining our team, [please get in touch](https://integra
 {% capture content %}
 
 {% include figure.html image="images/photo_JAyres.jpg" caption="[Prof. Janelle S. Ayres](https://www.salk.edu/scientist/janelle-ayres/)<br/>Salk Institute for Biological Studies, and<br/>Howard Hughes Medical Institute Investigator, USA" %}
-{% include figure.html image="images/photo_JBarr.jpg" caption="[Prof. Jeremy Barr]([https://www.sanger.ac.uk/person/lawley-trevor/](https://research.monash.edu/en/persons/jeremy-barr/))<br/>Monash University, AUS" %}  
+{% include figure.html image="images/photo_JBarr.jpg" caption="[Prof. Jeremy Barr](https://research.monash.edu/en/persons/jeremy-barr/)<br/>Monash University, AUS" %}  
 <!--{% include figure.html image="images/photo_RKnight.jpg" caption="Prof. Rob Knight<br/>University of California San Diego, USA" %}-->
 {% include figure.html image="images/photo_TLawley.jpg" caption="[Dr. Trevor D. Lawley](https://www.sanger.ac.uk/person/lawley-trevor/)<br/>Wellcome Sanger Institute, UK" %}  
 {% include figure.html image="images/photo_RSchittenhelm.jpg" caption="[Prof. Ralf B. Schittenhelm](https://research.monash.edu/en/persons/ralf-schittenhelm/)<br/>Monash University, AUS" %}
