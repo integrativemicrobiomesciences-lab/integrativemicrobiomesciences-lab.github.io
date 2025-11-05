@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 ## What we do
-We employ both wet lab and dry lab approaches to answer research questions. We analyse large omic datasets to generate novel targeted hypotheses (discovery science) to validate in the lab, and translate towards advancements in biotherapeutic and biotechnological applications. 
+We employ both wet lab and dry lab approaches to answer research questions. We generate and analyse large omic datasets to formulate novel targeted hypotheses (discovery science) to validate in the lab, and translate towards advancements in biotherapeutic and biotechnological applications. 
 
 ## How we do it
 Our lab has expertise in microbial genomics (isolates and microbiomes), integrative multi-omics, and *in vitro* molecular microbiology techniques.<br/> 
