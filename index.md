@@ -6,7 +6,7 @@
 The resolution of current studies investigating bacterial pathogenesis and the microbiome describes a defined consortium of commensal microbes that can, for example, reduce the magnitude of pathogen colonisation; however, understanding the network of metabolic shifts relative to the gut microbiota remains challenging.<br/>
 Our lab develops strategies for engineering the metabolic potential of the gut microbiome for treating and modulating host health outcomes following infection with multi-drug resistant bacteria. <br/>
 We combine molecular microbiology, microbiome sciences, bioinformatics, and multi-omic approaches to define causal mechanisms in microbial communities in an effort to then rationally reprogram those communities toward desired health phenotypes. <br/>
-Our lab is particularly focused on infectious disease biology and antimicrobial resistance, where the ability to map, measure,and perturb microbial functions in situ has translational implications. 
+Our lab is particularly focused on infectious disease biology and antimicrobial resistance, where the ability to map, measure, and perturb microbial functions *in situ* has translational implications. 
  
 
 
