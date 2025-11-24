@@ -27,8 +27,9 @@ Andre has trained with world-leaders in microbiology, microbiome sciences, and h
 
 His graduate research at the University of Melbourne with [Assoc. Prof., John Moreau](https://www.gla.ac.uk/schools/ges/staff/johnmoreau/) (UGlasgow) was in environmental sciences (microbial ecology and bioinformatics) elucidating the interactions of a 1.5-km deep subsurface microbial community using high-throughput sequencing technologies. During this time, Andre was awarded a competitive fellowship through the Natural Sciences and Engineering Research Council of Canada to train in anaerobic microbiology with [Prof., Gerrit Voourdouw](https://profiles.ucalgary.ca/gerrit-voordouw) at the University of Calgary. 
 
-Andre has authored 30 publications to date in journals such as *Nature Communications*, *Nature Reviews Microbiology*, and *Microbiome* – all with the common themes of microbiome sciences at the leading-edge of integrating techniques from different disciplines and omic platforms, defining future directions of research. 
+Andre has authored 31 publications to date in journals such as *Nature Communications*, *Nature Reviews Microbiology*, and *Microbiome* – all with the common themes of microbiome sciences at the leading-edge of integrating techniques from different disciplines and omic platforms, defining future directions of research. 
 
+Andres hobbies include photography, live music/concerts, cycling, and football/futsal
 
 
 ### Affiliations
