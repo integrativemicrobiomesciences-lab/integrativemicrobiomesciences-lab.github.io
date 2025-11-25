@@ -29,7 +29,7 @@ His graduate research at the University of Melbourne with [Assoc. Prof., John Mo
 
 Andre has authored 31 publications to date in journals such as *Nature Communications*, *Nature Reviews Microbiology*, and *Microbiome* – all with the common themes of microbiome sciences at the leading-edge of integrating techniques from different disciplines and omic platforms, defining future directions of research. 
 
-Andres hobbies include photography, live music/concerts, cycling, and football/futsal
+Andre's hobbies include photography, live music/concerts, cycling, and football/futsal
 
 
 ### Affiliations
