@@ -15,5 +15,5 @@ During her undergraduate studies she took an interest in biochemistry and comple
 Now, as an honours student her research focuses on investigating the gut microbiome and using computational biology to link gut bacteria to metabolites found in the blood stream.
 
 
-**Primary supervisor:** Dr. Andre Mu
-**Secondary supervisor:** A/Prof. Adam Rose
+**Primary supervisor** Dr. Andre Mu
+**Secondary supervisor** A/Prof. Adam Rose
