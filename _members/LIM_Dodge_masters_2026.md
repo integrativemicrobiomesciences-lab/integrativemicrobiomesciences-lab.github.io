@@ -7,7 +7,7 @@ aliases:
   - D. Lim
 links:
   home-page: 
-  orcid:0000-0002-6271-3861 
+  orcid: 0000-0002-6271-3861 
 
 ---
 Dodge is an Australia Awards Scholar currently pursuing a Master of Genome Analytics at Monash University. 
