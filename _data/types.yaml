@@ -6,14 +6,30 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+adjunct:
+  icon: fa-solid fa-glasses
+  description: Adjunct Researcher
+
+visitor:
+  icon: fa-solid fa-glasses
+  description: Visiting Researcher
+  
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
 phd:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Graduate Researcher; PhD Student
 
+masters:
+  icon: fa-solid fa-graduation-cap
+  description: Graduate Researcher; Masters Student
+
+honours:
+  icon: fa-solid fa-user-graduate
+  description: Honours Researcher; Undergraduate Student
+  
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
