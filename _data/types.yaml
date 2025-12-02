@@ -20,15 +20,15 @@ postdoc:
 
 phd:
   icon: fa-solid fa-graduation-cap
-  description: Graduate Researcher; PhD Student
+  description: Graduate Researcher PhD Student
 
 masters:
   icon: fa-solid fa-graduation-cap
-  description: Graduate Researcher; Masters Student
+  description: Graduate Researcher Masters Student
 
 honours:
   icon: fa-solid fa-user-graduate
-  description: Honours Researcher; Undergraduate Student
+  description: Honours Researcher Undergraduate Student
   
 undergrad:
   icon: fa-solid fa-user-graduate
