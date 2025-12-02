@@ -3,6 +3,8 @@ name: Anjali Yellapragada
 image: images/photo_ANJALI_Yellapragada.jpg
 role: honours
 affiliation: Monash University
+Primary supervisor: Dr. Andre Mu
+Secondary supervisor: A/Prof. Adam Rose
 aliases:
   - A.Yellapragada
 links:
