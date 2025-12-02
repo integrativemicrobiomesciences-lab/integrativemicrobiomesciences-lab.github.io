@@ -58,7 +58,7 @@ Biomedicine Discovery Institute<br/>
 **[BCH3990 - Action in biochemistry research project](https://handbook.monash.edu/2025/units/BCH3990?year=2025)**<br/>
 *Unit Coordinator, Semester 2*<br/>
 
-**Masters of Bioinformatics**<br/>
+**[Masters of Bioinformatics](https://handbook.monash.edu/current/courses/M6049)**<br/>
 *in development* 
 
 
