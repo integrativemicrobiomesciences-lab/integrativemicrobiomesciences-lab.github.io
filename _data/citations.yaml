@@ -115,17 +115,6 @@
   orcid: 0000-0002-0853-9743
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:36807633
-  title: Bacteriophage discovery to advance biotechnology and biotherapeutics.
-  authors:
-  - Andre Mu
-  - Trevor D Lawley
-  publisher: Nature reviews. Microbiology
-  date: '2023-05-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36807633
-  orcid: 0000-0002-0853-9743
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:36934086
   title: Integrative omics identifies conserved and pathogen-specific responses of
     sepsis-causing bacteria.
