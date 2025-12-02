@@ -19,5 +19,5 @@ Before starting his PhD, he worked as the Director of Phage Innovation at Phi Th
 He’s broadly interested in microbial evolution, microbiome engineering, and translating microbiology learnings into real-world applications.
 
 
-**Primary advisor** Prof. Jeremy Barr
-**Secondary advisor** Dr. Andre Mu
+**Primary advisor:** Prof. Jeremy Barr<br/>
+**Secondary advisor:** Dr. Andre Mu
