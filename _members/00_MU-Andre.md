@@ -10,7 +10,7 @@ links:
   orcid: 0000-0002-0853-9743
 ---
 
-Andre Mu is a Senior Lecturer and Laboratory Head with the Department of Biochemistry and Molecular Biology at Monash University, and is affiliated with the Biomedicine Discovery Institute’s *Infection*, and *Metabolism, diabetes & obesity* Programs. 
+Andre Mu is a Senior Lecturer (Assoc. Professor equivalent, USA) and Laboratory Head with the Department of Biochemistry and Molecular Biology at Monash University, and is affiliated with the Biomedicine Discovery Institute’s *Infection*, and *Metabolism, diabetes & obesity* Programs. 
 
 Andre has over 14 years of training across five world-leading institutions spanning three continents, each position supported by prestigious individual research fellowships, totalling >$411,000, including:
 - Endeavour Research Fellowship: [*Doherty Institute*](https://www.doherty.edu.au) & [UCSD](https://ucsd.edu) (Australia & USA)<br/>
