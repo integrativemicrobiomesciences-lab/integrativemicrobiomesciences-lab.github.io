@@ -12,7 +12,7 @@ adjunct:
 
 alumni: 
   icon: fa-solid fa-user-graduate
-  description: Alumni
+  description: Former members of the lab
   
 visitor:
   icon: fa-solid fa-glasses
