@@ -1,7 +1,7 @@
 ---
 name: Alumni
 image: images/.jpg
-role: honours
+role: alumni
 affiliation: Monash University
 aliases:
   - alumni
