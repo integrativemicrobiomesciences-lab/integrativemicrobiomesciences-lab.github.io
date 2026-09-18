@@ -53,7 +53,7 @@ Biomedicine Discovery Institute<br/>
 **[Masters of Bioinformatics](https://handbook.monash.edu/current/courses/M6049)**<br/>
 *Chief Examiner & Unit Coordinator:* BMS5303 - Research case studies in bioinformatics (Microbiome sciences)<br/>
 *Chief examiner & Unit Coordinator:* BMS5308 - Integrative bioinformatics and multi-omic bioinformatics research (Pathogen genomics)<br/>
-*Lecturer:* [BMS5309 - Advanced Transcriptomics: Bulk, single-cell, spatial analysis](https://handbook.monash.edu/2026/units/BMS5309)
+*Lecturer:* [BMS5309 - Advanced Transcriptomics: Bulk, single-cell, spatial analysis (Immunology)](https://handbook.monash.edu/2026/units/BMS5309)
 
 
 
