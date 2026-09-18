@@ -41,24 +41,19 @@ Department of Biochemistry and Molecular Biology<br/>
 Biomedicine Discovery Institute<br/>
 Discovery Programs: *Infection*; and *Metabolism, diabetes, and obesity*
 
-- *Leader*<br/>
+- *Co-Lead*<br/>
+*AMR Evolution & Protective Microbiomes Theme*<br/>
 **Centre to Impact AMR**
-
-- *Honorary Research Fellow*<br/>
-**University of Melbourne**<br/>
-Department of Microbiology and Immunology,<br/>
-at The Peter Doherty Institute for Infection and Immunity
 
 
 ### Teaching
 Department of Biochemistry and Molecular Biology<br/>
 Biomedicine Discovery Institute<br/>
 
-
-**[BCH3990 - Action in biochemistry research project](https://handbook.monash.edu/2025/units/BCH3990?year=2025)**<br/>
-*Unit Coordinator, Semester 2*<br/>
-
 **[Masters of Bioinformatics](https://handbook.monash.edu/current/courses/M6049)**<br/>
-*in development* 
+*Chief Examiner & Unit Coordinator:* BMS5303 - Research case studies in bioinformatics (Microbiome sciences)<br/>
+*Chief examiner & Unit Coordinator:* BMS5308 - Integrative bioinformatics and multi-omic bioinformatics research (Pathogen genomics)<br/>
+*Lecturer:* [BMS5309 - Advanced Transcriptomics: Bulk, single-cell, spatial analysis](https://handbook.monash.edu/2026/units/BMS5309)
+
 
 
