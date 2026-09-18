@@ -10,6 +10,10 @@ adjunct:
   icon: fa-solid fa-glasses
   description: Adjunct Researcher
 
+alumni: 
+  icon: fa-solid fa-user-graduate
+  description: Alumni
+  
 visitor:
   icon: fa-solid fa-glasses
   description: Visiting Researcher
