@@ -30,6 +30,7 @@ If you are interested in joining our team, [please get in touch](https://integra
 {% include figure.html image="images/photo_RSchittenhelm.jpg" caption="[Prof. Ralf B. Schittenhelm](https://research.monash.edu/en/persons/ralf-schittenhelm/)<br/>Monash University, AUS" %}
 {% include figure.html image="images/DStrugnell.jpg" caption="[Prof. Richard (Dick) A. Strugnell, AO](https://www.doherty.edu.au/people/professor-richard-dick-strugnell)<br/>University of Melbourne, AUS" %}
 <!--{% include figure.html image="images/photo_TStinear.jpg" caption="Prof. Timothy P. Stinear<br/>University of Melbourne, AUS" %}-->  
+{% include figure.html image="images/photo_SandeepVerma.jpg" caption="[Prof. Sandeep Verma](https://en.wikipedia.org/wiki/Sandeep_Verma)<br/>Indian Institute of Technology, Kanpur<br/>Gangwal School of Medical Science and Technology" %}
 {% include figure.html image="images/photo_TWong.jpg" caption="[Assist. Prof. Tania Wong](https://www.taniawonglabrutgers.com/about)<br/>Rutgers Institute for Infectious & Inflammatory Diseases, USA" %}
 
 {% endcapture %}
