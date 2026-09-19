@@ -12,14 +12,14 @@ Stay tuned for future news and updates from our lab
 ### A collection of photos taken by lab members
 
 ![photo_dolomites](/images/photo_dolomites.jpg)
-Sony a7 iii; Italian Dolomites; A. Mu
+Sony a7 iii; Dolomites, Italy; A. Mu
 
 
 ![photo_nettuno](/images/photo_nettunobeach.jpg)
-Sony a7 iii; Nettuno beach; A. Mu
+Sony a7 iii; Nettuno beach, Rome, Italy; A. Mu
 
 ![photo_santamonica](/images/photo_santamonica.jpg)
-Sony a7 iii; Santa Barbara; A. Mu
+Sony a7 iii; Santa Barbara, California, USA; A. Mu
 
 {% include section.html %}
 
