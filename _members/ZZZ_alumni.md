@@ -9,18 +9,23 @@ links:
   home-page: 
   orcid: 
 ---
-**Postdocs**
+**Postdocs**<br/>
 
 
-**PhD**
+**PhD**<br/>
+2026 - Khalimat Murtazalieva (graduated from University of Cambridge, and EMBL-European Bioinformatics Institute, UK)
 
 
-**Masters**
-2026 - Dodge Lim
+**Masters**<br/> 
+2026 - Dodge Lim <br/>
 
 
-**Honours**
+**Honours**<br/>
+2012 - Jane Hawkey _currently Department of Infectious Diseases, Monash University_
 
+
+
+**Laboratory scientist**<br/> 
 
 
 
