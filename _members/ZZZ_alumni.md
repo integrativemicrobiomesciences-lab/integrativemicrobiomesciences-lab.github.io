@@ -11,25 +11,28 @@ links:
 ---
 **Postdocs**<br/>
 
-
+<br/><br/>
 **PhD**<br/>
-2026 - Khalimat Murtazalieva (graduated from University of Cambridge, and EMBL-European Bioinformatics Institute, UK)
+2026 - Khalimat Murtazalieva<br/>_graduated from University of Cambridge, and EMBL-European Bioinformatics Institute, UK_
 
 
+
+<br/><br/>
 **Masters**<br/> 
 2026 - Dodge Lim <br/>
 
 
+<br/><br/>
 **Honours**<br/>
-2012 - Jane Hawkey _currently Department of Infectious Diseases, Monash University_
+2012 - Jane Hawkey<br/>_currently Department of Infectious Diseases, Monash University_
 
 
-
+<br/><br/>
 **Laboratory scientist**<br/> 
 
 
 
-
+<br/><br/>
 **Visiting scholars**
 
 
