@@ -9,7 +9,7 @@ links:
   home-page: 
   orcid: 
 ---
-**Postdocs**<br/>
+<!--**Postdocs**<br/>-->
 
 <br/><br/>
 **PhD**<br/>
@@ -28,12 +28,13 @@ links:
 
 
 <br/><br/>
-**Laboratory scientist**<br/> 
+<!--**Laboratory scientist**<br/>-->
 
 
 
 <br/><br/>
-**Visiting scholars**
+**Visiting scholars**<br/>
+2026 - Gokul Raj (jointly with Dr Ludovica Monti, Bio21 and School of Chemistry, University of Melbourne)<br/> _currently Indian Institute of Technology, Kanpur_
 
 
 
