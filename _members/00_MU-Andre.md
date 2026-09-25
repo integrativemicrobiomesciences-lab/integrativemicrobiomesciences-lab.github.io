@@ -38,18 +38,20 @@ Andre's hobbies include photography, live music/concerts, cycling, and football/
 **Head, Integrative Microbiome Sciences Laboratory**<br/>
 Department of Biochemistry and Molecular Biology<br/>
 Biomedicine Discovery Institute<br/>
-Discovery Programs: *Infection*; and *Metabolism, diabetes, and obesity*
+Discovery Programs: *Infection*; and *Metabolism, diabetes, and obesity*<br/>
 **Monash University**<br/>
   
 - *Co-Lead*<br/>
 *AMR Evolution & Protective Microbiomes Theme*<br/>
-**Centre to Impact AMR**
+**Centre to Impact AMR**<br/>
+**Monash University**<br/>
 
 
 ### Committees
+Biomedicine Discovery Institute Infection Program, Executive member<br/>
 Biomedicine Discovery Institute International Engagement<br/>
-Biomedicine Discovery Institute Infrastructure<br/>
-Biomedicine Discovery Institute Infection Program (Executive member)<br/>
+Biomedicine Discovery Institute Research Infrastructure<br/>
+
 
 ### Teaching
 Department of Biochemistry and Molecular Biology<br/>
@@ -62,9 +64,9 @@ Biomedicine Discovery Institute<br/>
 
 
 ### Editorial board membership
-[mSystems](https://journals.asm.org/journal/msystems) (One Health Systems), American Society for Microbiology 
-[Bioinformatics Methods and Applications](https://www.sciltp.com/journals/bma)
-[International Journal of Antimicrobial Agents](https://www.sciencedirect.com/journal/international-journal-of-antimicrobial-agents)
+[mSystems](https://journals.asm.org/journal/msystems) (One Health Systems), American Society for Microbiology<br/>
+[Bioinformatics Methods and Applications](https://www.sciltp.com/journals/bma)<br/>
+[International Journal of Antimicrobial Agents](https://www.sciencedirect.com/journal/international-journal-of-antimicrobial-agents)<br/>
 
 
 
