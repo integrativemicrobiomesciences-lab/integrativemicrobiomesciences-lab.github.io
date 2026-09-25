@@ -35,25 +35,36 @@ Andre's hobbies include photography, live music/concerts, cycling, and football/
 ### Affiliations
 
 - *Senior Lecturer & Laboratory Head*<br/>
-**Monash University**<br/> 
-*Head, Integrative Microbiome Sciences Laboratory*<br/>
+**Head, Integrative Microbiome Sciences Laboratory**<br/>
 Department of Biochemistry and Molecular Biology<br/>
 Biomedicine Discovery Institute<br/>
 Discovery Programs: *Infection*; and *Metabolism, diabetes, and obesity*
-
+**Monash University**<br/>
+  
 - *Co-Lead*<br/>
 *AMR Evolution & Protective Microbiomes Theme*<br/>
 **Centre to Impact AMR**
 
 
+### Committees
+Biomedicine Discovery Institute International Engagement<br/>
+Biomedicine Discovery Institute Infrastructure<br/>
+Biomedicine Discovery Institute Infection Program (Executive member)<br/>
+
 ### Teaching
 Department of Biochemistry and Molecular Biology<br/>
 Biomedicine Discovery Institute<br/>
 
-**[Masters of Bioinformatics](https://handbook.monash.edu/current/courses/M6049)**<br/>
+**[Master of Bioinformatics](https://handbook.monash.edu/current/courses/M6049)**<br/>
 *Chief Examiner & Unit Coordinator:* BMS5303 - Research case studies in bioinformatics (Microbiome sciences)<br/>
 *Chief examiner & Unit Coordinator:* BMS5308 - Integrative bioinformatics and multi-omic bioinformatics research (Pathogen genomics)<br/>
 *Lecturer:* [BMS5309 - Advanced Transcriptomics: Bulk, single-cell, spatial analysis (Immunology)](https://handbook.monash.edu/2026/units/BMS5309)
+
+
+### Editorial board membership
+[mSystems](https://journals.asm.org/journal/msystems) (One Health Systems), American Society for Microbiology 
+[Bioinformatics Methods and Applications](https://www.sciltp.com/journals/bma)
+[International Journal of Antimicrobial Agents](https://www.sciencedirect.com/journal/international-journal-of-antimicrobial-agents)
 
 
 
