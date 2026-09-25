@@ -43,7 +43,7 @@ Discovery Programs: *Infection*; and *Metabolism, diabetes, and obesity*<br/>
   
 - *Co-Lead*<br/>
 *AMR Evolution & Protective Microbiomes Theme*<br/>
-**Centre to Impact AMR**<br/>
+Centre to Impact AMR<br/>
 **Monash University**<br/>
 
 
