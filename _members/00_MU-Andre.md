@@ -14,8 +14,8 @@ Andre Mu is a Senior Lecturer (Assoc. Professor equivalent, USA) and Laboratory 
 
 Andre has over 14 years of training across five world-leading institutions spanning three continents, each position supported by prestigious individual research fellowships, totalling >$411,000, including:
 - Endeavour Research Fellowship: [*Doherty Institute*](https://www.doherty.edu.au) & [UCSD](https://ucsd.edu) (Australia & USA)<br/>
-- EMBL-EBI & Sanger Research Fellowship: [*Wellcome Sanger Institute*](https://www.sanger.ac.uk) & [*EMBL-EBI*](https://www.ebi.ac.uk) (UK)<br/>
-- NOMIS Foundation Research Fellowship: [*Salk Institute for Biological Studies*](https://www.salk.edu) (USA)<br/><br/><br/><br/>
+- NOMIS Foundation Research Fellowship: [*Salk Institute for Biological Studies*](https://www.salk.edu) (USA)<br/>
+- EMBL-EBI & Sanger Research Fellowship: [*Wellcome Sanger Institute*](https://www.sanger.ac.uk) & [*EMBL-EBI*](https://www.ebi.ac.uk) (UK)<br/><br/><br/><br/>
 
 
 Andre has trained with world-leaders in microbiology, microbiome sciences, and host-pathogen interactions, including:<br/>
