@@ -64,9 +64,9 @@ Biomedicine Discovery Institute<br/>
 
 
 ### Editorial board membership
-[mSystems](https://journals.asm.org/journal/msystems) (One Health Systems), American Society for Microbiology<br/>
-[Bioinformatics Methods and Applications](https://www.sciltp.com/journals/bma)<br/>
-[International Journal of Antimicrobial Agents](https://www.sciencedirect.com/journal/international-journal-of-antimicrobial-agents)<br/>
+_[mSystems](https://journals.asm.org/journal/msystems)_ (One Health Systems), American Society for Microbiology<br/>
+_[Bioinformatics Methods and Applications](https://www.sciltp.com/journals/bma)_<br/>
+_[International Journal of Antimicrobial Agents](https://www.sciencedirect.com/journal/international-journal-of-antimicrobial-agents)_<br/>
 
 
 
