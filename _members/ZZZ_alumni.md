@@ -2,7 +2,7 @@
 name: Alumni
 image: images/photo_alumni.jpg
 role: alumni
-affiliation: Monash University
+affiliation: Monash University, unless otherwise stated
 aliases:
   - alumni
 links:
@@ -13,7 +13,7 @@ links:
 
 <br/><br/>
 **PhD**<br/>
-2026 - Khalimat Murtazalieva<br/>_graduated from University of Cambridge, and EMBL-European Bioinformatics Institute, UK_
+2026 - Khalimat Murtazalieva, (_graduated from University of Cambridge, and EMBL-European Bioinformatics Institute, UK_)<br/>
 
 
 
@@ -24,7 +24,8 @@ links:
 
 <br/><br/>
 **Honours**<br/>
-2012 - Jane Hawkey<br/>_currently Department of Infectious Diseases, Monash University_
+2012 - Jane Hawkey<br/>
+_currently, Group Leader & NHMRC Emerging Leadership Fellow, Department of Infectious Diseases, Monash University_
 
 
 <br/><br/>
@@ -34,7 +35,7 @@ links:
 
 <br/><br/>
 **Visiting scholars**<br/>
-2026 - Gokul Raj (jointly with Dr Ludovica Monti, Bio21 and School of Chemistry, University of Melbourne)<br/> _currently Indian Institute of Technology, Kanpur_
+2026 - Gokul Raj Mohan (_jointly supervised with Dr Ludovica Monti, Bio21 and School of Chemistry, University of Melbourne_)<br/> _currently Indian Institute of Technology, Kanpur_
 
 
 
