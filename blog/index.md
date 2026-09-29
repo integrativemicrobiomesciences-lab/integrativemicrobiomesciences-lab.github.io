@@ -11,13 +11,21 @@ Stay tuned for future news and updates from our lab
 
 ### Monash Microbiome Symposium, 2026
 We are hosting the Monash Microbiome Symposium for its second year running.<br/> 
-Our organising committee is excited to present four sessions spanning microbiome sciences in:(<br/> 
+Our organising committee is excited to present four sessions spanning microbiome sciences in:<br/> 
 (1) antimicrobial resistance<br/> 
 (2) environmental microbes<br/> 
 (3) diet, and<br/>
 (4) disease.<br/>
 
-*Antimicrobial resistance* is one of the key sessions to feature a keynote; this year, delivered by Prof. Anton Peleg, Director of the Department of Infectious Diseases at The Alfred Hospital, and Director of the Monash Centre to Impact AMR. 
+*Antimicrobial resistance* is one of the key sessions to feature a keynote. This years keynote will be delivered by Prof. Anton Peleg, Director of the Department of Infectious Diseases at The Alfred Hospital, and Director of the Monash Centre to Impact AMR.<br/>
+
+**Organising committee** _alphabetical_ <br/>
+- Amelia Belich<br/>
+- Ashray Gunjur<br/>
+- Andre Mu<br/>
+- Rikeish Muralitharan<br/>
+- Francesco Ricci<br/>
+- CK Yao<br/>
 
 ![photo_MonashMicrobiomeSym2026](/images/photo_MonashMicrobiomeSym2026.jpg)
 
