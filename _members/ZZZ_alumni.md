@@ -2,18 +2,20 @@
 name: Alumni
 image: images/photo_alumni.jpg
 role: alumni
-affiliation: Monash University, unless otherwise stated
+affiliation: 
 aliases:
   - alumni
 links:
   home-page: 
   orcid: 
 ---
+Listed below are former members of the lab, where affiliations are with Monash University, unless otherwise stated
 <!--**Postdocs**<br/>-->
-
+<br/><br/>
+<br/><br/>
 <br/><br/>
 **PhD**<br/>
-2026 - Khalimat Murtazalieva, (_graduated from University of Cambridge, and EMBL-European Bioinformatics Institute, UK_)<br/>
+2026 - Khalimat Murtazalieva, (_graduated from University of Cambridge, & EMBL-EBI, UK_)<br/>
 
 
 
@@ -21,14 +23,14 @@ links:
 **Masters**<br/> 
 2026 - Dodge Lim <br/>
 
-<br/><br/>
+
 <br/><br/>
 **Honours**<br/>
 2012 - Jane Hawkey<br/>
 _currently, Group Leader & NHMRC Emerging Leadership Fellow, Department of Infectious Diseases, Monash University_
 
 
-<br/><br/>
+<!--<br/><br/>-->
 <!--**Laboratory scientist**<br/>-->
 
 
