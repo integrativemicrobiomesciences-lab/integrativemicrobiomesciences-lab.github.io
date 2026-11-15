@@ -19,18 +19,18 @@ Listed below are former members of the lab, where affiliations are with Monash U
 <br/><br/>
 <br/><br/>
 **PhD**<br/>
-2026 - Khalimat Murtazalieva, (_graduated from University of Cambridge, & EMBL-EBI, UK_)<br/>
+2026 - **Khalimat Murtazalieva**, (_graduated from University of Cambridge, & EMBL-EBI, UK_)<br/>
 
 
 
 <br/><br/>
 **Masters**<br/> 
-2026 - Dodge Lim <br/>
+2026 - **Dodge Lim** <br/>
 
 
 <br/><br/>
 **Honours**<br/>
-2012 - Jane Hawkey<br/>
+2012 - **Jane Hawkey**<br/>
 _currently, Group Leader & NHMRC Emerging Leadership Fellow, Department of Infectious Diseases, Monash University_
 
 
@@ -41,7 +41,7 @@ _currently, Group Leader & NHMRC Emerging Leadership Fellow, Department of Infec
 
 <br/><br/>
 **Visiting scholars**<br/>
-2026 - Gokul Raj Mohan (_jointly supervised with Dr Ludovica Monti, Bio21 and School of Chemistry, University of Melbourne_)<br/> _currently Indian Institute of Technology, Kanpur_
+2026 - **Gokul Raj Mohan** (_jointly supervised with Dr Ludovica Monti, Bio21 and School of Chemistry, University of Melbourne_)<br/> _currently Indian Institute of Technology, Kanpur_
 
 
 
