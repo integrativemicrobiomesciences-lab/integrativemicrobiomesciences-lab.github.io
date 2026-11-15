@@ -99,22 +99,6 @@
   orcid: 0000-0002-0853-9743
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.jenvman.2023.117948
-  title: 'Biofilm colonization of stone materials from an Australian outdoor sculpture:
-    Importance of geometry and exposure'
-  authors:
-  - "Cristina Catt\xF2"
-  - Andre Mu
-  - John W. Moreau
-  - Nancy Wang
-  - Francesca Cappitelli
-  - Richard Strugnell
-  publisher: Journal of Environmental Management
-  date: '2023-08-01'
-  link: https://doi.org/gv8qrn
-  orcid: 0000-0002-0853-9743
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:36807633
   title: Bacteriophage discovery to advance biotechnology and biotherapeutics.
   authors:
@@ -286,38 +270,6 @@
   orcid: 0000-0002-0853-9743
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.isci.2022.103941
-  title: Adipose triglyceride lipase mediates lipolysis and lipid mobilization in
-    response to iron-mediated negative energy balance
-  authors:
-  - Alicia R. Romero
-  - Andre Mu
-  - Janelle S. Ayres
-  publisher: iScience
-  date: '2022-03-01'
-  link: https://doi.org/g87x4h
-  orcid: 0000-0002-0853-9743
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1128/spectrum.01757-21
-  title: 'The Impact of Mouthwash on the Oropharyngeal Microbiota of Men Who Have
-    Sex with Men: a Substudy of the OMEGA Trial'
-  authors:
-  - Erica L. Plummer
-  - Kate Maddaford
-  - Gerald L. Murray
-  - Christopher K. Fairley
-  - Shivani Pasricha
-  - Andre Mu
-  - Catriona S. Bradshaw
-  - Deborah A. Williamson
-  - Eric P. F. Chow
-  publisher: Microbiology Spectrum
-  date: '2022-02-23'
-  link: https://doi.org/g87x4j
-  orcid: 0000-0002-0853-9743
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.tim.2022.01.013
   title: Gut microbiome signatures and host colonization with multidrug-resistant
     bacteria
@@ -378,45 +330,6 @@
   orcid: 0000-0002-0853-9743
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1111/1758-2229.12868
-  title: "Subsurface carbon monoxide oxidation capacity revealed through genome\u2010\
-    resolved metagenomics of a carboxydotroph"
-  authors:
-  - Andre Mu
-  - Brian C. Thomas
-  - Jillian F. Banfield
-  - John W. Moreau
-  publisher: Environmental Microbiology Reports
-  date: '2020-07-23'
-  link: https://doi.org/gsxz2t
-  orcid: 0000-0002-0853-9743
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1128/mSystems.00452-20
-  title: Microbe-Metabolite Associations Linked to the Rebounding Murine Gut Microbiome
-    Postcolonization with Vancomycin-Resistant Enterococcus faecium
-  authors:
-  - Andre Mu
-  - Glen P. Carter
-  - Lucy Li
-  - Nicole S. Isles
-  - Alison F. Vrbanac
-  - James T. Morton
-  - Alan K. Jarmusch
-  - David P. De Souza
-  - Vinod K. Narayana
-  - Komal Kanojia
-  - Brunda Nijagal
-  - Malcolm J. McConville
-  - Rob Knight
-  - Benjamin P. Howden
-  - Timothy P. Stinear
-  publisher: mSystems
-  date: '2020-08-25'
-  link: https://doi.org/g87x4k
-  orcid: 0000-0002-0853-9743
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.jad.2020.01.124
   title: Feeling down? A systematic review of the gut microbiota in anxiety/depression
     and irritable bowel syndrome
@@ -469,28 +382,6 @@
   publisher: Molecular Medicine
   date: '2019-04-03'
   link: https://doi.org/g87x4n
-  orcid: 0000-0002-0853-9743
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41564-019-0597-0
-  title: Staphylococcus aureus small colony variants impair host immunity by activating
-    host cell glycolysis and inducing necroptosis
-  authors:
-  - Tania Wong Fok Lung
-  - Ian R. Monk
-  - Karen P. Acker
-  - Andre Mu
-  - Nancy Wang
-  - "Sebasti\xE1n A. Riquelme"
-  - Silvia Pires
-  - Loreani P. Noguera
-  - Felix Dach
-  - Stanislaw J. Gabryszewski
-  - Benjamin P. Howden
-  - Alice Prince
-  publisher: Nature Microbiology
-  date: '2019-11-04'
-  link: https://doi.org/gjjp8b
   orcid: 0000-0002-0853-9743
   plugin: orcid.py
   file: orcid.yaml
