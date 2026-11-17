@@ -25,7 +25,6 @@ Listed below are former members of the lab, where affiliations are with Monash U
 
 <br/><br/>
 **Masters**<br/> 
-2026 - **Dodge Lim** <br/>
 
 
 <br/><br/>
