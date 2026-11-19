@@ -16,9 +16,9 @@ Dr Andre Mu, a microbial ecologist and bioinformatician at the Doherty Institute
 
 Dr Mu tells us about his time at USCD and what he hopes for the future of this collaboration.
 
-April 3rd, 2018
+**April 3rd, 2018**
 
-“…Welcome to San Diego, where the local time is 10:45pm. The captain has switched off the seatbelt sign; if you have your mobile device at hand, you can now turn off airplane mode…”
+*“…Welcome to San Diego, where the local time is 10:45pm. The captain has switched off the seatbelt sign; if you have your mobile device at hand, you can now turn off airplane mode…”*
 
 My research into microbiome sciences led me to a six-month exchange to establish a collaboration with Professor Rob Knight (University of California San Diego; co-founder of the Earth Microbiome Project) through a competitive Endeavour Research Fellowship.
 
@@ -42,9 +42,9 @@ Through this collaborative platform, myself and key researchers from the Doherty
 
 This study aims to profile the oral microbiome of Victorians as part of the Museum’s exhibit, Gut Feelings; and a living microbiome map will display the microbial diversity of more than 1000 participants from across Victoria. More information on this project can be found here.
 
-May 26th, 2019
+**May 26th, 2019**
 
-“…Welcome to San Diego, where the local time is 10:45pm. The captain has switched off the seatbelt sign; if you have your mobile device at hand, you can now turn off airplane mode…”
+*“…Welcome to San Diego, where the local time is 10:45pm. The captain has switched off the seatbelt sign; if you have your mobile device at hand, you can now turn off airplane mode…”*
 
 Déjà vu.
 
@@ -58,7 +58,7 @@ Bacteriophage therapy is proving to be a viable non-antibiotic alternative to tr
 
 I also spent quality time with close friends eating our way through a lot of Italian and Mexican foods, and would catch the sunset over the horizon at Torrey Pines Gliderport and Coronado beach (see photo).
 
-Near future
+**Near future**
 
 “…Welcome to San Diego, where the local time is 10:45pm. The captain has switched off the seatbelt sign; if you have your mobile device at hand, you can now turn off airplane mode…”
 
@@ -66,6 +66,7 @@ Back to the future.
 
 I aim to continue the strong collaborative links between UCSD and the Doherty Institute, and to work at the vanguard of microbiome sciences across multiple ecosystems; from infectious diseases, to phage therapy, and environmental sciences.
 
+<br/>
 <br/>
 ### Monash Microbiome Symposium, 2026
 We are hosting the Monash Microbiome Symposium for its second year running.<br/> 
