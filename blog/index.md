@@ -10,7 +10,7 @@ nav:
 Stay tuned for future news and updates from our lab<br/>
 
 ### Researcher cultivates collaboration at University of California San Diego
-*First published 20, JUN 20219 on ![doherty.edu.au](https://www.doherty.edu.au/articles/doherty-researcher-cultivates-collaboration-at-university-of-california-san-diego/)* 
+*First published 20, JUN 20219 on [doherty.edu.au](https://www.doherty.edu.au/articles/doherty-researcher-cultivates-collaboration-at-university-of-california-san-diego/)* 
 
 Dr Andre Mu, a microbial ecologist and bioinformatician at the Doherty Institute has spent the past 18 months cultivating collaborations with Professor Rob Knight at the University of California San Diego (USCD), the founder of the American Gut Project, a worldwide research project mapping human microbiomes through citizen science.
 
