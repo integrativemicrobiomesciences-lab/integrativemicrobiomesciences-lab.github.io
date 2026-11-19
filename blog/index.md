@@ -46,7 +46,7 @@ This study aims to profile the oral microbiome of Victorians as part of the Muse
 
 *“…Welcome to San Diego, where the local time is 10:45pm. The captain has switched off the seatbelt sign; if you have your mobile device at hand, you can now turn off airplane mode…”*
 
-Déjà vu.
+*Déjà vu.*
 
 My return to UCSD immediately followed a Doherty Institute co-hosted symposium, View to the future for public health and personalized infectious disease care, where I invited Professor Rob Knight as a keynote speaker.
 
@@ -60,9 +60,9 @@ I also spent quality time with close friends eating our way through a lot of Ita
 
 **Near future**
 
-“…Welcome to San Diego, where the local time is 10:45pm. The captain has switched off the seatbelt sign; if you have your mobile device at hand, you can now turn off airplane mode…”
+*“…Welcome to San Diego, where the local time is 10:45pm. The captain has switched off the seatbelt sign; if you have your mobile device at hand, you can now turn off airplane mode…”*
 
-Back to the future.
+*Back to the future.*
 
 I aim to continue the strong collaborative links between UCSD and the Doherty Institute, and to work at the vanguard of microbiome sciences across multiple ecosystems; from infectious diseases, to phage therapy, and environmental sciences.
 
