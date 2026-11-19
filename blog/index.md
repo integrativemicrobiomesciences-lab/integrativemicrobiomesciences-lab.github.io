@@ -88,7 +88,8 @@ Our organising committee is excited to present four sessions spanning microbiome
 
 ![photo_MonashMicrobiomeSym2026](/images/photo_MonashMicrobiomeSym2026.jpg)
 
-
+<br/>
+<br/>
 ### A collection of photos taken by lab members
 
 ![photo_dolomites](/images/photo_dolomites.jpg)
